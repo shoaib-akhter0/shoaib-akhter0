@@ -67,7 +67,7 @@ I'm a passionate **Data Scientist** who loves turning raw data into meaningful i
 ### 📊 Contribution Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibakhter&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shoaib-akhter0&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
 
 ---
