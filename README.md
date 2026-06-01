@@ -59,8 +59,11 @@ I'm a passionate **Data Scientist** who loves turning raw data into meaningful i
 ### 📊 Contribution Activity
 
 <div align="center">
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibakhter&theme=github-dark-blue&hide_border=false&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&border_radius=10" alt="shoaibakhter" />
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib-akhter0&theme=github-dark-blue&hide_border=false&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&border_radius=10" alt="shoaib-akhter0" />
 </div>
+
+
+
 
 ---
 
